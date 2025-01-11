@@ -1,5 +1,5 @@
 {
-  "name": "angulat-github-actions",
+  "name": "angular-github-actions",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
